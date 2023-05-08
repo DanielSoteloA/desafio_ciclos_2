@@ -1,7 +1,7 @@
 Portafolio
 Portafolio Daniel Sotelo
 
-Desafío - Flujo, ciclos y Métodos (I) 
+Desafío - Flujo, ciclos y Métodos (II) 
 
 🚀 archivo: desafio_ciclos_2.rb
 
